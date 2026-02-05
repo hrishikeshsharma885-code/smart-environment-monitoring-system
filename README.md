@@ -28,3 +28,11 @@ This project is a multi-sensor embedded system developed using Arduino to monito
 - IoT-based monitoring
 - Mobile alerts
 - Cloud data logging
+
+## Project Preview
+
+### Hardware Setup
+![Hardware Setup](hardware-setup.jpg)
+
+### System Output
+![LCD Output](lcd-output.jpg)
