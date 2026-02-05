@@ -32,7 +32,7 @@ This project is a multi-sensor embedded system developed using Arduino to monito
 ## Project Preview
 
 ### Hardware Setup
-![Hardware Setup](hardware-setup.jpeg)
+(hardware-setup.jpeg)
 
 ### System Output
-![LCD Output](lcd-output.jpeg)
+(lcd-output.jpeg)
